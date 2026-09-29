@@ -70,14 +70,14 @@ side_quest:  Writing scripts, directing stories 🎬
   <tr>
     <td width="50%" valign="top">
 
-### 🛡️ Fraud Detection System
+### 🛡️ Hotel-Management-LLM-model
 *Flagship ML project*
 
 Machine-learning pipeline for detecting fraudulent transactions.
 
 `Python` `ML` `Data Analysis`
 
-[**View Repo →**](https://github.com/Naivete07/REPLACE-WITH-REPO-NAME)
+[**View Repo →**](https://github.com/Naivete07/Hotel-Management-LLM-model))
 
 </td>
     <td width="50%" valign="top">
@@ -89,21 +89,21 @@ Intent recognition, context-aware queries, multi-turn flow with fallback handlin
 
 `Python` `NLP` `Intent Recognition`
 
-[**View Repo →**](https://github.com/Naivete07/REPLACE-WITH-REPO-NAME)
+[**View Repo →**](https://github.com/Naivete07/Hotel-Management-Chatbot)
 
 </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### 🏨 Hotel Management System
+### 🏨 Fitness-Tracker
 *Console app with OOP architecture*
 
-Room booking, check-in/out, guest records and automated billing with file-based persistence.
+Tracks the Record.
 
 `Python` `C` `OOP` `File Handling`
 
-[**View Repo →**](https://github.com/Naivete07/REPLACE-WITH-REPO-NAME)
+[**View Repo →**](https://github.com/Naivete07/Fitness-Tracker)
 
 </td>
     <td width="50%" valign="top">
@@ -115,7 +115,7 @@ Tic-Tac-Toe, Number Guessing, and Snake & Ladder — with clean game loops and i
 
 `Python` `C` `Algorithms`
 
-[**View Repo →**](https://github.com/Naivete07/REPLACE-WITH-REPO-NAME)
+[**View Repo →**](https://github.com/Naivete07/Mini-Games)
 
 </td>
   </tr>
