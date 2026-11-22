@@ -1,182 +1,233 @@
-<div align="center">
+<p>
+  <a href="https://naivete07.github.io/Portfolio/"><strong>Vivek Yadav</strong></a>
+  &nbsp;·&nbsp;
+  <a href="#work">Work</a>
+  &nbsp;·&nbsp;
+  <a href="#about">About</a>
+  &nbsp;·&nbsp;
+  <a href="#coding">Coding</a>
+  &nbsp;·&nbsp;
+  <a href="#contact">Contact</a>
+  &nbsp;·&nbsp;
+  <a href="https://naivete07.github.io/Portfolio/">Portfolio ↗</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Naivete07">GitHub ↗</a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vivek%20Yadav&fontSize=52&fontAlignY=38&desc=Frontend%20%C2%B7%20AI%2FML%20%C2%B7%20Building%20products%20that%20ship&descSize=16&descAlignY=62&animation=fadeIn" width="100%" />
+<img src="https://img.shields.io/badge/%E2%97%8F_Open_to_internships-0A0908?style=flat-square&labelColor=0A0908&color=2ea44f" alt="Open to internships" />
+<img src="https://komarev.com/ghpvc/?username=Naivete07&label=views&color=FF5520&style=flat-square" alt="Profile views" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=7C9CFF&center=true&vCenter=true&width=720&lines=B.Tech+CSE+(AI%2FML)+%40+ABES+Engineering+College;Production+Lead+%40+GDG+ABESEC;Building+fraud-detection+%26+frontend+systems;Open+to+internships+%26+real-world+product+work)](https://github.com/Naivete07)
+# Building <em>things</em> that think & feel.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-naivete07.github.io-0d1117?style=for-the-badge&logo=githubpages&logoColor=7C9CFF)](https://naivete07.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vivek--yadav--sde-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/vivek-yadav-sde)
-[![LeetCode](https://img.shields.io/badge/LeetCode-naivete07-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/naivete07/)
-[![Gmail](https://img.shields.io/badge/Email-vivekyaduvanshi712-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vivekyaduvanshi712@gmail.com)
+SOFTWARE DEVELOPER · AI/ML · GHAZIABAD, INDIA
 
-![Profile views](https://komarev.com/ghpvc/?username=Naivete07&label=Profile%20views&color=6e40c9&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Naivete07?style=for-the-badge&logo=github&color=00d4ff&labelColor=0d1117)
-![Repos](https://img.shields.io/badge/Public%20repos-16-0d1117?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/%E2%97%8F_Dev2Hack_Final_Six-0A0908?style=flat-square&labelColor=131110&color=FF5520" alt="Dev2Hack Final Six" />
+<img src="https://img.shields.io/badge/%E2%97%8F_Skill:_ML_Systems-0A0908?style=flat-square&labelColor=131110&color=5B8BFF" alt="ML Systems" />
+<img src="https://img.shields.io/badge/%E2%97%8F_Guild:_GDG_ABESEC-0A0908?style=flat-square&labelColor=131110&color=C2185B" alt="GDG ABESEC" />
+<img src="https://img.shields.io/badge/%F0%9F%8C%B8_Sakura_Mode-0A0908?style=flat-square&labelColor=131110&color=E91E63" alt="Sakura Mode" />
 
-</div>
+<br />
 
----
-
-### About me
-
-I’m **Vivek** — a CSE (AI/ML) student at **ABES Engineering College, AKTU** (2024–28, CGPA **8.4**). I care about shipping things people can actually use: fraud-detection systems, dashboards, and clean frontend experiences.
-
-Right now I’m looking for a **startup internship** where I can own features, learn fast, and put real products in front of users. Off the keyboard I write scripts and help run campus productions.
-
-- 🔭 Building hybrid ML systems for fraud & threat detection
-- 🌱 Deepening DSA, full-stack React, and applied ML
-- 👥 Production Lead at **GDG ABESEC** · Script Writer at **Picturesque Club**
-- 📍 Ghaziabad / Lucknow, India
-
----
-
-### Tech I work with
-
-**Languages & frontend**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend, data & ML**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
-
-**Cloud & tools**
-
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-0d1117?style=for-the-badge&logo=oracle&logoColor=F80000)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Colab](https://img.shields.io/badge/Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF)
-
-**Core CS:** `DSA` · `OOP` · `DBMS` · `Operating Systems`
+Currently looking for **ML / backend internships** · CGPA **8.4** · **8+** certifications · **0.971** PR-AUC on Sparkov · **GDG Production Lead** · building ML systems, end to end.
 
 ---
 
-### Featured work
+<h2 id="work">Recently Made</h2>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ AegisGuard</h3>
-      <p>Real-time hybrid credit-card fraud detection — XGBoost + Isolation Forest, 3-tier approve/review/block, async SHAP, FastAPI dashboard. Capstone prototype with p95 scoring ~12ms.</p>
-      <p>
-        <a href="https://github.com/Naivete07/Aegisguard-Fraud-Detection">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naivete07&repo=Aegisguard-Fraud-Detection&theme=tokyonight&hide_border=true" alt="AegisGuard repo" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🕸️ KAYO</h3>
-      <p>Hackathon SOC platform: correlate Linux eBPF-style telemetry with UPI / wallet streams on a threat graph. Auth, Neo4j graph, and governance ledger. Live demo on Render.</p>
-      <p>
-        <a href="https://github.com/Naivete07/KAYO">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naivete07&repo=KAYO&theme=tokyonight&hide_border=true" alt="KAYO repo" />
-        </a>
-      </p>
-      <p><a href="https://kayo-e1mt.onrender.com/"><b>Live demo →</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💪 AuraFit</h3>
-      <p>Glassmorphic React fitness dashboard — pulse metrics, smartwatch emulator, athlete pass, posture guard, and sports advisor. Deployed on Vercel.</p>
-      <p>
-        <a href="https://github.com/Naivete07/Fitness-Tracker">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naivete07&repo=Fitness-Tracker&theme=tokyonight&hide_border=true" alt="AuraFit repo" />
-        </a>
-      </p>
-      <p><a href="https://aura-ten-eosin-10.vercel.app"><b>Live demo →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏨 Hotel Management LLM</h3>
-      <p>Flask chatbot with LLM replies, autocomplete, and a web UI for bookings, pricing, and amenities — plus a rule-based NLP companion for intent + multi-turn flow.</p>
-      <p>
-        <a href="https://github.com/Naivete07/Hotel-Management-LLM-model">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naivete07&repo=Hotel-Management-LLM-model&theme=tokyonight&hide_border=true" alt="Hotel Management LLM repo" />
-        </a>
-      </p>
-      <p><a href="https://github.com/Naivete07/Hotel-Management-Chatbot"><b>Rule-based chatbot →</b></a></p>
-    </td>
-  </tr>
+<tr>
+<td valign="top" width="50%">
+<h3><a href="https://github.com/Naivete07/Aegisguard-Fraud-Detection">Credit Card Fraud Detection System</a></h3>
+<p><sub>Python · XGBoost · Isolation Forest · SHAP · FastAPI · React</sub></p>
+<p>Hybrid XGBoost + Isolation Forest detector with SHAP explanations on every alert. Chronological splits across 3 public datasets (2.7M transactions); behavioural features lifted Sparkov PR-AUC from 0.860 to 0.971. FastAPI + React dashboard serves 1,000 txns/min at 41.8 ms p95.</p>
+<p><a href="https://github.com/Naivete07/Aegisguard-Fraud-Detection"><strong>2026 · ML ↗</strong></a></p>
+</td>
+<td valign="top" width="50%">
+<h3><a href="https://github.com/Naivete07/KAYO">KAYO: AI Scam & Threat Pattern Recognition</a></h3>
+<p><sub>Python · TensorFlow · FastAPI · PostgreSQL · React</sub></p>
+<p>Final six at Dev2Hack 2026 (Microsoft) from 1,000+ registrations; also at CodeSlayer 2026, NIT Delhi. 12-endpoint FastAPI backend, F1 0.998 on PaySim, 0.982 intrusion-detection recall on UNSW-NB15, feeding a threat-graph correlation engine.</p>
+<p><a href="https://github.com/Naivete07/KAYO"><strong>2026 · Hackathon ↗</strong></a> · <a href="https://kayo-e1mt.onrender.com/">Live</a></p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<h3>SEARIS: Sea Intelligence & Recognition System</h3>
+<p><sub>Python · Computer Vision · Deep Learning</sub></p>
+<p>Working underwater object detection and classification prototype delivered in 8 hours at the SGU × RocketRide AIthon 2026.</p>
+<p><a href="https://naivete07.github.io/Portfolio/#work"><strong>2026 · Computer Vision ↗</strong></a></p>
+</td>
+<td valign="top" width="50%">
+<h3><a href="https://github.com/Naivete07/Hotel-Management-Chatbot">AI Chatbot</a></h3>
+<p><sub>Python · Rule-Based NLP · Intent Recognition</sub></p>
+<p>Intent recognition, context-aware queries, and multi-turn flow with fallback handling for unrecognized inputs.</p>
+<p><a href="https://github.com/Naivete07/Hotel-Management-Chatbot"><strong>2025 · Python ↗</strong></a></p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<h3><a href="https://github.com/Naivete07/Hotel-Management-LLM-model">Hotel Management System</a></h3>
+<p><sub>Python · C · OOP · File Handling</sub></p>
+<p>Flask chatbot with LLM replies, autocomplete, and a web UI for bookings, pricing, and amenities.</p>
+<p><a href="https://github.com/Naivete07/Hotel-Management-LLM-model"><strong>2025 · Python + C ↗</strong></a></p>
+</td>
+<td valign="top" width="50%">
+<h3><a href="https://github.com/Naivete07/Mini-Games">Mini Games Collection</a></h3>
+<p><sub>Python · C · Algorithms · Game Logic</sub></p>
+<p>Tic-Tac-Toe, Number Guessing, and Snake & Ladder — clean game loops and input validation.</p>
+<p><a href="https://github.com/Naivete07/Mini-Games"><strong>2024–25 · Algorithms ↗</strong></a></p>
+</td>
+</tr>
+</table>
+
+<blockquote>
+<p><strong>“If I don’t have to do it, I won’t. If I have to do it, I’ll make it quick.”</strong> — Oreki Houtarou, <em>Hyouka</em></p>
+<p>just energy conserving!!</p>
+</blockquote>
+
+---
+
+<h2 id="other">Other Work ✦</h2>
+
+Hackathons, a patent, leading a chapter and the <em>certificates</em> along the way — newest first.
+
+| When | | Title | Note |
+| :--- | :--- | :--- | :--- |
+| 2026 | 🏅 | **[Dev2Hack 2026 — Final Six](https://github.com/Naivete07/KAYO)** · Microsoft, Noida | Final six with KAYO among 100 finalists from 50+ colleges |
+| Oct 2026 | ☁️ | **AWS Academy Graduate** · Generative AI Foundations | AWS Academy |
+| Sep 2026 – | ⬡ | **GDG Production Lead** · Google Developer Group, ABESEC | Promoted from member → coordinator → lead. Logistics, scheduling, video & graphic content. +30% event registrations |
+| Feb 2026 | 📜 | **Patent application** · AI-enabled real-time food redistribution | Co-inventor (3 inventors). No. 202511133346 |
+| Dec 2025 | 📈 | **McKinsey Forward Program** · McKinsey & Company | Problem-solving, leadership, consulting simulation |
+| Oct 2025 | 📊 | **Data Analytics Job Simulation** · Deloitte / Forage | Cleaning, analysing, visualising in a Deloitte-style environment |
+| Sep 2025 | 🧠 | **GenAI Powered Data Analytics** · Tata / Forage | Prompting, AI-assisted insights, data storytelling |
+| Sep 2025 | 🏆 | **Mission UpSkill India Techfest** · HCL × GUVI | Hackathon submission |
+| Jan 2025 | 🏗️ | **OCI Foundations (AI & ML)** · Oracle | Cloud + AI/ML services and architecture |
+| Mar 2026 | 🧠 | **AI Fluency Framework & Foundations** · Anthropic | |
+| Oct 2025 | 🛠️ | **Google Workspace Tools Skill Badge** · Google | |
+
+---
+
+<h2 id="about">About Me</h2>
+
+Hey, I'm **Vivek** — a third-year <em>B.Tech CSE (AI/ML)</em> student at ABES Engineering College with an **8.4 CGPA**.
+
+I build <em>ML systems end to end</em> — data pipelines, leakage-safe model evaluation, FastAPI services and React dashboards. My hybrid fraud detector reaches **0.971 PR-AUC** on Sparkov, and I'm a co-inventor on a filed patent application.
+
+Outside of code, I'm Production Lead at <em>GDG ABESEC</em> and have written scripts for Picturesque Club. I'm looking for a <em>software engineering internship in ML platforms or backend</em> where I can contribute from day one.
+
+**Based in** Ghaziabad, UP, India  
+**Education** B.Tech CSE AI/ML · ABES · 2024–2028  
+**Snapshot** 8.4 CGPA · 3rd year · Top 6 Dev2Hack
+
+<p>
+  <a href="https://github.com/Naivete07">GitHub ↗</a>
+  ·
+  <a href="https://www.linkedin.com/in/vivek-yadav-sde">LinkedIn ↗</a>
+  ·
+  <a href="mailto:vivekyaduvanshi712@gmail.com">Email ↗</a>
+</p>
+
+**Skills**
+
+<img src="https://img.shields.io/badge/Python-F0EDE6?style=flat-square&logo=python&logoColor=0D0C0A&labelColor=F0EDE6&color=F0EDE6" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-F0EDE6?style=flat-square&logo=fastapi&logoColor=0D0C0A&labelColor=F0EDE6&color=F0EDE6" alt="FastAPI" />
+<img src="https://img.shields.io/badge/React-F0EDE6?style=flat-square&logo=react&logoColor=0D0C0A&labelColor=F0EDE6&color=F0EDE6" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-F0EDE6?style=flat-square&logo=typescript&logoColor=0D0C0A&labelColor=F0EDE6&color=F0EDE6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F0EDE6?style=flat-square&logo=javascript&logoColor=0D0C0A&labelColor=F0EDE6&color=F0EDE6" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C%20%2F%20C++-F0EDE6?style=flat-square&labelColor=F0EDE6&color=F0EDE6" alt="C / C++" />
+<img src="https://img.shields.io/badge/SQL-F0EDE6?style=flat-square&labelColor=F0EDE6&color=F0EDE6" alt="SQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-F0EDE6?style=flat-square&logo=postgresql&logoColor=0D0C0A&labelColor=F0EDE6&color=F0EDE6" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/REST%20%26%20WebSockets-F0EDE6?style=flat-square&labelColor=F0EDE6&color=F0EDE6" alt="REST & WebSockets" />
+<img src="https://img.shields.io/badge/scikit--learn-F0EDE6?style=flat-square&logo=scikitlearn&logoColor=0D0C0A&labelColor=F0EDE6&color=F0EDE6" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/XGBoost-F0EDE6?style=flat-square&labelColor=F0EDE6&color=F0EDE6" alt="XGBoost" />
+<img src="https://img.shields.io/badge/TensorFlow-F0EDE6?style=flat-square&logo=tensorflow&logoColor=0D0C0A&labelColor=F0EDE6&color=F0EDE6" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/SHAP-F0EDE6?style=flat-square&labelColor=F0EDE6&color=F0EDE6" alt="SHAP" />
+<img src="https://img.shields.io/badge/Pandas-F0EDE6?style=flat-square&logo=pandas&logoColor=0D0C0A&labelColor=F0EDE6&color=F0EDE6" alt="Pandas" />
+<img src="https://img.shields.io/badge/Anomaly%20Detection-F0EDE6?style=flat-square&labelColor=F0EDE6&color=F0EDE6" alt="Anomaly Detection" />
+<img src="https://img.shields.io/badge/Generative%20AI-F0EDE6?style=flat-square&labelColor=F0EDE6&color=F0EDE6" alt="Generative AI" />
+<img src="https://img.shields.io/badge/OCI-F0EDE6?style=flat-square&logo=oracle&logoColor=0D0C0A&labelColor=F0EDE6&color=F0EDE6" alt="Oracle Cloud" />
+<img src="https://img.shields.io/badge/AWS-F0EDE6?style=flat-square&logo=amazonwebservices&logoColor=0D0C0A&labelColor=F0EDE6&color=F0EDE6" alt="AWS" />
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-F0EDE6?style=flat-square&logo=github&logoColor=0D0C0A&labelColor=F0EDE6&color=F0EDE6" alt="Git & GitHub" />
+<img src="https://img.shields.io/badge/DSA-F0EDE6?style=flat-square&labelColor=F0EDE6&color=F0EDE6" alt="DSA" />
+<img src="https://img.shields.io/badge/OOP-F0EDE6?style=flat-square&labelColor=F0EDE6&color=F0EDE6" alt="OOP" />
+<img src="https://img.shields.io/badge/DBMS-F0EDE6?style=flat-square&labelColor=F0EDE6&color=F0EDE6" alt="DBMS" />
+<img src="https://img.shields.io/badge/OS-F0EDE6?style=flat-square&labelColor=F0EDE6&color=F0EDE6" alt="OS" />
+
+---
+
+<h2 id="coding">Competitive Programming</h2>
+
+Where I sharpen the <em>problem-solving muscle</em> — daily practice on LeetCode, rated rounds on CodeChef.
+
+<p>
+  <a href="https://leetcode.com/u/Kyraa07/">LeetCode · Kyraa07 ↗</a>
+  ·
+  <a href="https://www.codechef.com/users/naivete07">CodeChef · naivete07 ↗</a>
+</p>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**LeetCode · Kyraa07**
+
+**270** problems solved · contest rating **1463** · **5** contests · global standing **Top 57.41%**
+
+Easy **184** · Medium **79** · Hard **7**
+
+🔥 **154**-day max streak · **154** active days · **546** submissions in the past year
+
+**100 Days Badge 2026**
+
+</td>
+<td valign="top" width="50%">
+
+**CodeChef · naivete07**
+
+Rating **1267** · Div 4 · peak **1267** · **20** contests
+
+DSA rating **1577** · peak **1597** · **12** contests
+
+Global **#72,829** · country **#69,892** · DSA global **#5,916**
+
+**Contest Contender · Bronze**
+
+</td>
+</tr>
 </table>
 
 <p align="center">
-  Also: <a href="https://github.com/Naivete07/Mini-Games">Mini Games</a> · <a href="https://naivete07.github.io/Portfolio/">Portfolio</a> · <a href="https://github.com/Naivete07/neetcode-submissions">NeetCode practice</a>
+  <img src="https://leetcard.jacoblin.cool/Kyraa07?theme=dark&font=DM%20Mono&ext=contest" alt="LeetCode stats" />
 </p>
 
 ---
 
-### Achievements
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naivete07&show_icons=true&hide_border=true&bg_color=0A0908&title_color=FF5520&text_color=F0EDE6&icon_color=FF5520&ring_color=FF5520" height="158" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naivete07&layout=compact&hide_border=true&bg_color=0A0908&title_color=FF5520&text_color=F0EDE6&langs_count=6" height="158" alt="Top languages" />
+</p>
 
-| | Credential | Org | When |
-| :---: | :--- | :--- | :---: |
-| 🧠 | AI Fluency Framework & Foundations | Anthropic | Mar 2026 |
-| 💼 | McKinsey Forward Program | McKinsey & Company | Dec 2025 |
-| ☁️ | OCI Foundations (AI & ML) | Oracle | 2025 |
-| 📊 | Data Analytics Job Simulation | Deloitte / Forage | Oct 2025 |
-| 🛠️ | Google Workspace Tools Skill Badge | Google | Oct 2025 |
-| 🤖 | GenAI Powered Data Analytics | Tata / Forage | Sep 2025 |
-| 🚀 | Mission UpSkill India Techfest Hackathon | HCL × GUVI | Sep 2025 |
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naivete07&bg_color=0a0908&color=f0ede6&line=ff5520&point=5b8bff&area=true&hide_border=true&area_color=ff5520" alt="Contribution graph" />
+</p>
 
 ---
 
-### Community
+<h2 id="contact">Get In Touch</h2>
 
-- **GDG ABESEC — Production Lead** — grew from production team member to lead; event logistics, workshops, and production planning
-- **Picturesque Club — Script Writer** — stories and scripts for campus productions
+<p>
+  <a href="mailto:vivekyaduvanshi712@gmail.com"><strong>Say hello ↗</strong></a>
+</p>
 
----
+vivekyaduvanshi712@gmail.com · +91 9555269109
 
-### GitHub snapshot
+<p>
+  <a href="https://www.linkedin.com/in/vivek-yadav-sde">LinkedIn ↗</a>
+  ·
+  <a href="https://github.com/Naivete07">GitHub ↗</a>
+  ·
+  <a href="mailto:vivekyaduvanshi712@gmail.com">Email ↗</a>
+  ·
+  <a href="https://naivete07.github.io/Portfolio/">Portfolio ↗</a>
+</p>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Naivete07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naivete07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Naivete07&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Naivete07&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naivete07&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-
-</div>
-
----
-
-<div align="center">
-
-### Let’s build something
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=7C9CFF)](https://naivete07.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/vivek-yadav-sde)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/naivete07/)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vivekyaduvanshi712@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/naivete07)
-
-<br />
-
-*Not all who wander are lost — some are just debugging.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
-
-</div>
+© 2026 Vivek Yadav. Built with care.
